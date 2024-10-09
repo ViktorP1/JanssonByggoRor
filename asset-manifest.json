@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/JanssonByggoRor/static/css/main.5a639c67.css",
-    "main.js": "/JanssonByggoRor/static/js/main.dfbd774a.js",
+    "main.js": "/JanssonByggoRor/static/js/main.7c4422a8.js",
     "static/js/453.8ab44547.chunk.js": "/JanssonByggoRor/static/js/453.8ab44547.chunk.js",
     "static/media/JBRlogo2.png": "/JanssonByggoRor/static/media/JBRlogo2.37eda90041e71e32838b.png",
     "static/media/LoggaJBR.png": "/JanssonByggoRor/static/media/LoggaJBR.e6f25407a4954f8afbfb.png",
@@ -12,11 +12,11 @@
     "static/media/nav_dropdown.png": "/JanssonByggoRor/static/media/nav_dropdown.be694910ea01430d1764.png",
     "index.html": "/JanssonByggoRor/index.html",
     "main.5a639c67.css.map": "/JanssonByggoRor/static/css/main.5a639c67.css.map",
-    "main.dfbd774a.js.map": "/JanssonByggoRor/static/js/main.dfbd774a.js.map",
+    "main.7c4422a8.js.map": "/JanssonByggoRor/static/js/main.7c4422a8.js.map",
     "453.8ab44547.chunk.js.map": "/JanssonByggoRor/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a639c67.css",
-    "static/js/main.dfbd774a.js"
+    "static/js/main.7c4422a8.js"
   ]
 }
