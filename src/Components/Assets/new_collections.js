@@ -9,7 +9,7 @@ let new_collections = [
     name: "Badrums renovering",
     category: "ref",
     image: p1_img,
-    desc: "Här gjordes det Badrums renovering",
+    desc: "Här gjordes det Badrums renovering hos en kund som ville kakla om hela badrummet samt installera en dush.",
   },
   {
     id: 2,

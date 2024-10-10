@@ -15,6 +15,7 @@ const Hero = () => {
                 <p>
                 Jansson Bygg & Rör AB har sedan starten 2021 levererat pålitliga och högkvalitativa tjänster inom bygg och VVS. Med över 12 års erfarenhet i branschen och som Säker Vatten-certifierade, erbjuder vi trygga och effektiva lösningar för både privatpersoner och företag.
                 <br/>
+                <br/>
                 Vi är specialister på VVS-arbeten men erbjuder även ett brett utbud av tjänster inom bland annat bygg & måleri. Vår målsättning är att omvandla dina idéer till verklighet med hjälp av vår professionalism och expertis. 
                 Kontakta oss idag för att diskutera ditt nästa projekt och se hur vi kan hjälpa dig att nå bästa möjliga resultat. 
                 </p>

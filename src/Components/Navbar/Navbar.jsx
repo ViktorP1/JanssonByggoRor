@@ -24,7 +24,7 @@ const Navbar = () => {
   return (
     <div className='navbar'>
       <div className='nav-logo'>
-        <Link style={{ textDecoration: 'none' }} to='/'>
+        <Link style={{ textDecoration: 'none' }} to='/JanssonByggoRor'>
           <p>Jansson Bygg & Rör AB</p>
         </Link>
       </div>
@@ -37,7 +37,7 @@ const Navbar = () => {
       />
       <ul ref={menuRef} className='nav-menu'>
         <li onClick={() => { setMenu('start'); handleMenuItemClick(); }}>
-          <Link style={{ textDecoration: 'none' }} to='/'>
+          <Link style={{ textDecoration: 'none' }} to='/JanssonByggoRor'>
             Start
           </Link>
         </li>
