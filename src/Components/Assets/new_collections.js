@@ -20,7 +20,7 @@ let new_collections = [
   },
   {
     id: 3,
-    name: "Grind Sattes Upp",
+    name: "Grind Sattes Upp På baksidan av tomten",
     category: "ref",
     image: p3_img,
     desc: "Här Snickades en grind ihop",

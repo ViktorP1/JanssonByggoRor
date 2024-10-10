@@ -103,7 +103,7 @@
     }
 
     .hero-right img {
-        width: 250px;
+        width: 300px;
     }
 }
 
@@ -139,6 +139,7 @@
         flex-direction: column;
         align-items: center; /* Center the content horizontally */
         text-align: center;  /* Center text alignment */
+        margin-bottom: 200px;
     }
     
     .hero-left {
@@ -156,6 +157,49 @@
 
     .hero-left p {
         font-size: 20px;
+        margin-bottom: 7px;
+        line-height: 1.6; /* Increase line height for better readability */
+        padding: 0 10px;  /* Add padding to the left and right for spacing */
+    }
+
+    .hero-offert-btn {
+        display: flex;
+        justify-content: center;  /* Center the button horizontally */
+        align-items: center;      /* Center the content within the button */
+        width: 200px;
+        height: 50px;
+        font-size: 20px;
+        gap: 10px;
+        margin: 0 auto; /* Center the button */
+    }
+
+    .hero-right img {
+        width: 350px;  /* Adjust the image size for smaller screens */
+    }
+}
+
+@media (max-width: 400px) {
+    .hero {
+        flex-direction: column;
+        align-items: center; /* Center the content horizontally */
+        text-align: center;  /* Center text alignment */
+    }
+    
+    .hero-left {
+        font-size: 20px;
+        font-weight: 500;
+        margin-bottom: 20px;
+        align-items: center;  /* Center the button and text horizontally */
+        padding: 0 20px; /* Add padding on both sides for space */
+    }
+
+    .hero-left h2 {
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+
+    .hero-left p {
+        font-size: 14px;
         margin-bottom: 20px;
         line-height: 1.6; /* Increase line height for better readability */
         padding: 0 10px;  /* Add padding to the left and right for spacing */
@@ -174,8 +218,6 @@
 
     .hero-right img {
         width: 250px;  /* Adjust the image size for smaller screens */
-        margin-bottom: 10px;
     }
 }
-
 

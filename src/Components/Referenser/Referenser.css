@@ -28,10 +28,12 @@
 
 .referenser img {
     width: 100%;
-    height: 60%;
+    height: 200px; /* Fixed height for images to maintain consistency */
+    object-fit: cover; /* Ensures all images maintain aspect ratio and fit inside the container */
     border-radius: 10px;
 }
 
+/* Adjustments for medium screens (1280px and smaller) */
 @media (max-width: 1280px) {
     .nya-referenser h1 {
         font-size: 40px;
@@ -43,11 +45,13 @@
     }
 
     .referenser {
+        grid-template-columns: 1fr 1fr 1fr; /* 3 columns for medium screens */
         gap: 20px;
         margin-top: 30px;
     }
 }
 
+/* Adjustments for tablet screens (1024px and smaller) */
 @media (max-width: 1024px) {
     .nya-referenser h1 {
         font-size: 30px;
@@ -59,14 +63,20 @@
     }
 
     .referenser {
-        gap: 15px;
+        grid-template-columns: 1fr 1fr 1fr; /* 2 columns for tablet screens */
+        gap: 20px; /* Maintain enough space between items */
         margin-top: 20px;
+    }
+
+    .referenser img {
+        height: 180px; /* Slightly smaller image height */
     }
 }
 
+/* Adjustments for smaller screens (800px and smaller) */
 @media (max-width: 800px) {
     .nya-referenser h1 {
-        font-size: 20px;
+        font-size: 24px;
     }
 
     .nya-referenser hr {
@@ -74,18 +84,27 @@
     }
 
     .referenser {
-        gap: 5px;
+        grid-template-columns: 1fr 1fr; /* Maintain 2 columns */
+        gap: 10px; /* Smaller gap for smaller screens */
+    }
+
+    .referenser img {
+        height: 150px; /* Smaller image height for small screens */
     }
 }
 
+/* Adjustments for very small screens (500px and smaller) */
 @media (max-width: 500px) {
     .referenser {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr; /* 1 column for very small screens */
         gap: 8px;
     }
 
     .nya-referenser h1 {
         font-size: 18px;
+    }
+
+    .referenser img {
+        height: 140px; /* Even smaller image height */
     }
 }

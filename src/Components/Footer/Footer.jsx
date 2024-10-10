@@ -10,7 +10,7 @@ const Footer = () => {
         </div>
         <div className="footer-social-icon">
             <div className="footer-icons-container">
-                <p>Skicka e-post : <a href="mailto:viktor1pavlov2@gmail.com">ove1jbr@gmail.com</a></p>
+                <p>Skicka e-post : <a href="mailto:ove1jbr@gmail.com">ove1jbr@gmail.com</a></p>
             </div>
             <div className="footer-icons-container">
                 <p>Telefon : <a href="tel:+4670-745 28 29">070-745 28 29</a></p>
@@ -18,7 +18,7 @@ const Footer = () => {
         </div>
         <div className="footer-copyright">
             <hr />
-            <p>Copyright © 2023 Jansson Bygg & Rör AB | Krogtäppan 33 137 68 Jordbro | 070-745 28 29</p>
+            <p>Copyright © 2024 Jansson Bygg & Rör AB | Krogtäppan 33 137 68 Jordbro | 070-745 28 29</p>
         </div>
     </div>
   )
