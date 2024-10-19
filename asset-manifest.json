@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/JanssonByggoRor/static/css/main.66a39dd4.css",
-    "main.js": "/JanssonByggoRor/static/js/main.66af431e.js",
+    "main.js": "/JanssonByggoRor/static/js/main.348a0c67.js",
     "static/js/453.8ab44547.chunk.js": "/JanssonByggoRor/static/js/453.8ab44547.chunk.js",
     "static/media/N7.png": "/JanssonByggoRor/static/media/N7.a6a4997c19ac521a3986.png",
     "static/media/N10.png": "/JanssonByggoRor/static/media/N10.7d40f436b13d714ee396.png",
@@ -18,6 +18,7 @@
     "static/media/JBRlogo2.png": "/JanssonByggoRor/static/media/JBRlogo2.37eda90041e71e32838b.png",
     "static/media/N5.png": "/JanssonByggoRor/static/media/N5.87ae24a58c290e669413.png",
     "static/media/LoggaJBR.png": "/JanssonByggoRor/static/media/LoggaJBR.e6f25407a4954f8afbfb.png",
+    "static/media/N27.jpg": "/JanssonByggoRor/static/media/N27.9fcf9f072e35022fb5fd.jpg",
     "static/media/N02.png": "/JanssonByggoRor/static/media/N02.ea12b8dd376d4b267d75.png",
     "static/media/N25.jpg": "/JanssonByggoRor/static/media/N25.661202cc8370a82bd9f7.jpg",
     "static/media/Snickeri.png": "/JanssonByggoRor/static/media/Snickeri.1bbcb593fcc2230d075e.png",
@@ -39,11 +40,11 @@
     "static/media/nav_dropdown.png": "/JanssonByggoRor/static/media/nav_dropdown.be694910ea01430d1764.png",
     "index.html": "/JanssonByggoRor/index.html",
     "main.66a39dd4.css.map": "/JanssonByggoRor/static/css/main.66a39dd4.css.map",
-    "main.66af431e.js.map": "/JanssonByggoRor/static/js/main.66af431e.js.map",
+    "main.348a0c67.js.map": "/JanssonByggoRor/static/js/main.348a0c67.js.map",
     "453.8ab44547.chunk.js.map": "/JanssonByggoRor/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66a39dd4.css",
-    "static/js/main.66af431e.js"
+    "static/js/main.348a0c67.js"
   ]
 }
