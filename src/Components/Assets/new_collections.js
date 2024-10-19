@@ -29,6 +29,7 @@ import p28_img from "./PICS/N23.jpg"
 import p29_img from "./PICS/N24.jpg"
 import p30_img from "./PICS/N25.jpg"
 import p31_img from "./PICS/N26.jpg"
+import p32_img from "./PICS/N27.jpg"
 
 let new_collections = [
   {
@@ -219,6 +220,13 @@ let new_collections = [
     category: "ref",
     image: p31_img,
     desc: "Byte delar av trossbotten på grund av vattenskada",
+  },
+  {
+    id: 28,
+    name: "Planteringsbord",
+    category: "ref",
+    image: p32_img,
+    desc: "Här så snickrades det ihop ett planteringsbord på beställning av en kund",
   },
 ];
 
