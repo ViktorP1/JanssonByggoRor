@@ -15,7 +15,7 @@ function App() {
       <Navbar/>
       <div className="content">
       <Routes>
-        <Route path='/JanssonByggoRor' element={<Start/>}/>
+        <Route path='/' element={<Start/>}/>
         <Route path='/omoss' element={<About />}/>
         <Route path='/offert' element={<Offert/>}/>
         <Route path='/referenser' element={<ProductCategory category="ref"/>}/>
